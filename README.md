@@ -21,8 +21,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,bash,vscode,postgres,mysql,lua,linux,linkedin,instagram,idea,github,eclipse,discord)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed8339&show_icons=true&locale=en&layout=compact" alt="mohammed8339" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed8339&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mohammed8339" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed8339&show_icons=true&locale=en" alt="mohammed8339" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed8339&show_icons=true&locale=en&theme=transparent" alt="mohammed8339" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed8339&" alt="mohammed8339" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed8339&theme=transparent" alt="mohammed8339" /></p>
