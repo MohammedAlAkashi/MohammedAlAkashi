@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed8339&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed8339" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed8339" alt="mohammed8339" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=mohammed8339&theme=nord" alt="mohammed8339" /></a> </p>
 
 - 🔭 I’m currently working on [Cano](https://github.com/CobbCoding1/Cano)
 
