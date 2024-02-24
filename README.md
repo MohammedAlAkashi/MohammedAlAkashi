@@ -5,8 +5,6 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=MohammedAlAkashi&theme=nord" alt="MohammedAlAkashi" /></a> </p>
 
-- 🔭 I’m currently working on [Cano](https://github.com/CobbCoding1/Cano)
-
 - 🌱 I’m currently learning **C, C++**
 
 - 💬 Ask me about **Java, Python**
