@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,html5,javascript,react,bash,vscode,postgres,mysql,lua,linux,linkedin,instagram,idea,github,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,html,javascript,react,bash,vscode,postgres,mysql,lua,linux,linkedin,instagram,idea,github,eclipse)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAlAkashi&layout=donut-vertical&show_icons=true&theme=transparent&lang_count=8" alt="MohammedAlAkashi" /></p>
 
