@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Al-Akashi</h1>
-<h3 align="center">A passionate developer from Canada</h3>
+<h3 align="center">A passionate developer from Canada that loves to automate tasks!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedAlAkashi&label=Profile%20views&color=0e75b6&style=flat" alt="MohammedAlAkashi" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Python**
 - Private Repository has: **1,465,088** lines of code
-
+- This is automated! ->    ^^^^^^^^^^^
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-a-1840b129b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-a-1840b129b" height="30" width="40" /></a>
