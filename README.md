@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **C++**, **R**, **Compilers**
 
 - 💬 Ask me about **Java, Python, C**
-- Private Repository has: **762,125** lines of code
+- Private Repository has: **762,653** lines of code
 - This is automated! ->    ^^^^^^^^^^^
 <h3 align="left">Connect with me:</h3>
 <p align="left">
