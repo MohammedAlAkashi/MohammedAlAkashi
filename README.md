@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=MohammedAlAkashi&theme=nord" alt="MohammedAlAkashi" /></a> </p>
 
-- 🌱 I’m currently learning **C++**, **R**, **Compilers**
+- 🌱 I’m currently learning **Business Analytics, React, SaaS**
 
 - 💬 Ask me about **Java, Python, C**
 - Private Repository has: **762,569** lines of code
