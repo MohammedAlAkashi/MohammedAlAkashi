@@ -26,4 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAlAkashi&theme=transparent" alt="MohammedAlAkashi" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammedAlAkashi/MohammedAlAkashi/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+</p>
