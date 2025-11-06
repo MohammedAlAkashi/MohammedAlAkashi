@@ -5,11 +5,16 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=MohammedAlAkashi&theme=nord" alt="MohammedAlAkashi" /></a> </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedAlAkashi/MohammedAlAkashi/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedAlAkashi/MohammedAlAkashi/pacman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohammedAlAkashi/MohammedAlAkashi/pacman/pacman-contribution-graph.svg">
+</picture>
+
 - 🌱 I’m currently learning **Business Analytics, React, SaaS**
 
 - 💬 Ask me about **Java, Python, C**
 - Private Repository has: **762,569** lines of code
-- This is automated! ->    ^^^^^^^^^^^
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-a-1840b129b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-a-1840b129b" height="30" width="40" /></a>
@@ -26,5 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAlAkashi&theme=transparent" alt="MohammedAlAkashi" /></p>
 
-<img src="https://raw.githubusercontent.com/MohammedAlAkashi/MohammedAlAkashi/output/snake.svg" alt="Pac-Man Contribution Graph" />
+<img src="https://raw.githubusercontent.com/MohammedAlAkashi/MohammedAlAkashi/snake/snake.svg" alt="Pac-Man Contribution Graph" />
 
