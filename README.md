@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,javascript,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cs,cpp,javascript,react)](https://skillicons.dev)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedAlAkashi&label=Profile%20views&color=0e75b6&style=flat" alt="MohammedAlAkashi" /> </p>
 
